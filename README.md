@@ -1,1 +1,1 @@
-# vue_sneakers
+# Sneakers website on Vue
